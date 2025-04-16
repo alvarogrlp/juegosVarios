@@ -6,7 +6,7 @@ JuegosVarios es una aplicación de escritorio desarrollada en Java con JavaFX, q
 ## 🎯 Características Principales
 
 ### 👤 Sistema de Usuarios
-![Pantalla del juego](juegos\src\main\resources\images\pantalla-login.png)
+![Pantalla de login](juegos\src\main\resources\images\pantalla-login.png)
 * Registro de nuevos usuarios
 * Inicio de sesión seguro
 * Recuperación de contraseña
